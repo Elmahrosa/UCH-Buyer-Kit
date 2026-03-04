@@ -75,7 +75,6 @@ Access is granted under NDA to verified institutional buyers only.
 | Live Marketing Site | https://uch.teosegypt.com |
 | Interactive Demo | https://unity-care-hospital.vercel.app |
 | Public Technical Repo | https://github.com/Elmahrosa/Unity-Care-Hospital |
-| Architecture PDF | [UCH-Architecture-Overview.pdf](https://github.com/Elmahrosa/Unity-Care-Hospital/blob/main/buyer-kit/UCH-Architecture-Overview.pdf) |
 | Contact | info@uch.teosegypt.com |
 | Phone | +20 100 616 7293 |
 
