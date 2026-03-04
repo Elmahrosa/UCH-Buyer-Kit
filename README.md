@@ -22,6 +22,21 @@ Access is granted under NDA to verified institutional buyers only.
 </div>
 
 ---
+## Platform Capabilities
+
+Unity Care Hospital provides a unified operational platform for modern healthcare infrastructure.
+
+Core capabilities include:
+
+• Executive operations dashboard with real-time KPIs  
+• Patient admission, triage, and discharge workflows  
+• Multi-department appointment scheduling  
+• Hospital bed allocation and occupancy monitoring  
+• Telemedicine consultation sessions  
+• Immutable audit logging for operational transparency
+
+The platform is designed to support both single-facility deployments and multi-hospital networks.
+
 
 ## What's In This Kit
 
