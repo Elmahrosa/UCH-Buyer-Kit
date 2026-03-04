@@ -104,6 +104,22 @@ Unity Care Hospital provides a deployable platform for healthcare operators seek
 
 ---
 
+## Deployment Model
+
+Unity Care Hospital can be deployed in several configurations:
+
+Cloud Deployment  
+Hosted infrastructure for rapid startup.
+
+Private Cloud  
+Institution-controlled hosting within regional data centers.
+
+On-Premise Deployment  
+Air-gapped infrastructure for national healthcare environments.
+
+Hybrid Infrastructure  
+Integration with existing hospital systems and secure networks.
+
 ## Quick Links
 
 | | |
