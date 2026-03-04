@@ -17,7 +17,7 @@ The platform enables healthcare providers to deploy a full digital hospital infr
 Access is granted under NDA to verified institutional buyers only.
 
 📧 info@uch.teosegypt.com · 📞 +20 100 616 7293  
-🌐 [uch.teosegypt.com](https://uch.teosegypt.com) · 🎯 [Interactive Demo](https://unity-care-hospital.vercel.app)
+🌐 [uch.teosegypt.com](https://uch.teosegypt.com) · 🎯 [Interactive Institutional Demo Environment](https://unity-care-hospital.vercel.app)
 
 </div>
 
