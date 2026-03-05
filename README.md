@@ -81,7 +81,9 @@ Short demonstration of the Unity Care Hospital platform including:
 The live interactive demonstration environment allows reviewers to explore the platform interface and operational modules.
 
 🎯 **Launch Demo:**  
-https://unity-care-hospital.vercel.app
+
+🎯 [Interactive Institutional Demo Environment](https://unity-care-hospital.vercel.app)
+
 
 ---
 
