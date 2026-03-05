@@ -19,7 +19,7 @@ infrastructure in less than **30 days**.
 Access is granted under NDA to verified institutional buyers only.
 
 📧 info@uch.teosegypt.com · 📞 +20 100 616 7293  
-🌐 https://uch.teosegypt.com  
+🌐 [UCH Institutional Overview](https://uch.teosegypt.com) 
 🎯 [Interactive Institutional Demo Environment](https://unity-care-hospital.vercel.app)
 </div>
 
