@@ -20,8 +20,7 @@ Access is granted under NDA to verified institutional buyers only.
 
 📧 info@uch.teosegypt.com · 📞 +20 100 616 7293  
 🌐 https://uch.teosegypt.com  
-🎯 https://unity-care-hospital.vercel.app
-
+🎯 [Interactive Institutional Demo Environment](https://unity-care-hospital.vercel.app)
 </div>
 
 ---
@@ -62,7 +61,8 @@ The platform supports both **single hospital deployments** and **multi-hospital 
 
 **Interactive Institutional Demo**
 
-https://unity-care-hospital.vercel.app
+🎯 [Interactive Institutional Demo Environment](https://unity-care-hospital.vercel.app)---
+
 
 Demo access is granted to verified institutional reviewers.
 
@@ -80,8 +80,6 @@ Demo access is granted to verified institutional reviewers.
 
 ### Telemedicine Consultation Environment
 ![Telemedicine](./assets/screenshots/telemedicine.png)
-
----
 
 # Market Opportunity
 
