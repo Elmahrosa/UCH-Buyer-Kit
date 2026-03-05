@@ -5,9 +5,11 @@
 **Private · Confidential · NDA Required**
 
 Unity Care Hospital (UCH) is a deployable digital hospital platform
-designed to support modern healthcare operations including patient management, 
+designed to support modern healthcare operations including patient management,
 telemedicine consultations, hospital bed allocation, and compliance logging.
-The platform enables healthcare providers to deploy a full digital hospital infrastructure in less than 30 days.
+
+The platform enables healthcare providers to deploy a full digital hospital
+infrastructure in less than **30 days**.
 
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-Active%20Sale-brightgreen?style=flat-square)]()
@@ -17,12 +19,14 @@ The platform enables healthcare providers to deploy a full digital hospital infr
 Access is granted under NDA to verified institutional buyers only.
 
 📧 info@uch.teosegypt.com · 📞 +20 100 616 7293  
-🌐 [uch.teosegypt.com](https://uch.teosegypt.com) · 🎯 [Interactive Institutional Demo Environment](https://unity-care-hospital.vercel.app)
+🌐 https://uch.teosegypt.com  
+🎯 https://unity-care-hospital.vercel.app
 
 </div>
 
 ---
-## Platform Capabilities
+
+# Platform Capabilities
 
 Unity Care Hospital provides a unified operational platform for modern healthcare infrastructure.
 
@@ -32,31 +36,35 @@ Core capabilities include:
 • Patient admission, triage, and discharge workflows  
 • Multi-department appointment scheduling  
 • Hospital bed allocation and occupancy monitoring  
-• Telemedicine consultation sessions  
-• Immutable audit logging for operational transparency
+• Telemedicine consultation environment  
+• Immutable audit logging for operational transparency  
 
-The platform is designed to support both single-facility deployments and multi-hospital networks.
-
-
-## What's In This Kit
-
-| Document | Purpose |
-|---|---|
-| [EXECUTIVE_SUMMARY.md](./docs/EXECUTIVE_SUMMARY.md) | Board-level overview — what UCH is and why it matters |
-| [ARCHITECTURE_OVERVIEW.md](./docs/ARCHITECTURE_OVERVIEW.md) | CTO/CIO technical brief — stack, API, topology |
-| [SECURITY_OVERVIEW.md](./docs/SECURITY_OVERVIEW.md) | Security controls and compliance posture |
-| [PROCUREMENT_MODEL.md](./docs/PROCUREMENT_MODEL.md) | Tiers, pricing, pilot structure |
-| [FINANCIAL_MODEL.md](./docs/FINANCIAL_MODEL.md) | 3-year projections and ROI model |
-| [PILOT_STRUCTURE.md](./docs/PILOT_STRUCTURE.md) | Pilot scope, timeline, success metrics |
-| [NDA_TEMPLATE.md](./docs/NDA_TEMPLATE.md) | Standard NDA — sign and return to begin diligence |
-| [INSTITUTIONAL_PROPOSAL.md](./docs/INSTITUTIONAL_PROPOSAL.md) | Board-ready proposal template |
+The platform supports both **single hospital deployments** and **multi-hospital healthcare networks**.
 
 ---
 
-## Platform Screenshots
+# What's In This Kit
 
-> **Interactive demo:** https://unity-care-hospital.vercel.app  
-> Demo access granted on request — email info@uch.teosegypt.com
+| Document | Purpose |
+|---|---|
+| EXECUTIVE_SUMMARY.md | Board-level overview |
+| ARCHITECTURE_OVERVIEW.md | Technical architecture brief |
+| SECURITY_OVERVIEW.md | Security and compliance posture |
+| PROCUREMENT_MODEL.md | Procurement tiers and pricing |
+| FINANCIAL_MODEL.md | 3-year financial projections |
+| PILOT_STRUCTURE.md | Pilot deployment structure |
+| NDA_TEMPLATE.md | NDA for institutional review |
+| INSTITUTIONAL_PROPOSAL.md | Board-ready proposal template |
+
+---
+
+# Platform Screenshots
+
+**Interactive Institutional Demo**
+
+https://unity-care-hospital.vercel.app
+
+Demo access is granted to verified institutional reviewers.
 
 ### Dashboard
 ![Dashboard](./assets/screenshots/dashboard.png)
@@ -64,47 +72,46 @@ The platform is designed to support both single-facility deployments and multi-h
 ### Patient Registry
 ![Patients](./assets/screenshots/patients.png)
 
-### Appointments / Scheduling Board
+### Appointment Scheduling
 ![Appointments](./assets/screenshots/appointments.png)
 
 ### Bed Management
 ![Bed Management](./assets/screenshots/bed-management.png)
 
-### Telemedicine (Mock WebRTC)
+### Telemedicine Consultation Environment
 ![Telemedicine](./assets/screenshots/telemedicine.png)
 
 ---
 
-## Market Opportunity
+# Market Opportunity
 
-Global digital health infrastructure spending is projected to exceed $500B by 2030.
+Global digital health infrastructure spending is projected to exceed **$500B by 2030**.
 
-Hospitals increasingly require:
+Healthcare providers increasingly require:
 
 • Telemedicine infrastructure  
 • Digital patient management systems  
 • Compliance-ready audit logging  
 • Remote consultation capabilities  
 
-Unity Care Hospital provides a deployable platform for healthcare operators seeking to modernize hospital infrastructure without building custom software stacks.
-
-
-
-
-## Deployment Tiers
-
-| Tier | Investment | Description |
-|---|---|---|
-| Institutional Pilot | $45,000 | 90-day validation, single facility, fully credited on upgrade |
-| Institutional License | $89,000+ | Full platform, white-label, per-region |
-| Full IP Transfer | $275,000+ | Complete ownership, all source code and rights |
-| Sovereign National Stack | $425,000+ | Air-gapped, multi-hospital, national compliance |
-
-> Pilot fees are **fully credited** toward any upgrade tier upon conversion.
+Unity Care Hospital provides a deployable platform for healthcare operators seeking to modernize hospital infrastructure **without building custom healthcare software stacks**.
 
 ---
 
-## Deployment Model
+# Deployment Tiers
+
+| Tier | Investment | Description |
+|---|---|---|
+| Institutional Pilot | $45,000 | 90-day validation, single facility |
+| Institutional License | $89,000+ | Full platform, white-label |
+| Full IP Transfer | $275,000+ | Complete ownership of platform |
+| Sovereign National Stack | $425,000+ | Air-gapped national infrastructure |
+
+Pilot investment is **fully credited toward license upgrade**.
+
+---
+
+# Deployment Model
 
 Unity Care Hospital can be deployed in several configurations:
 
@@ -112,15 +119,31 @@ Cloud Deployment
 Hosted infrastructure for rapid startup.
 
 Private Cloud  
-Institution-controlled hosting within regional data centers.
+Institution-controlled hosting environment.
 
 On-Premise Deployment  
-Air-gapped infrastructure for national healthcare environments.
+Air-gapped infrastructure for national healthcare systems.
 
 Hybrid Infrastructure  
-Integration with existing hospital systems and secure networks.
+Integration with existing hospital IT environments.
 
-## Quick Links
+---
+
+# Integration Readiness
+
+UCH is designed to integrate with existing healthcare infrastructure including:
+
+• Electronic Health Record (EHR) systems  
+• Hospital billing platforms  
+• Scheduling systems  
+• Telemedicine platforms  
+• National health data networks  
+
+The system uses an **API-first architecture** enabling integration without replacing existing hospital systems.
+
+---
+
+# Quick Links
 
 | | |
 |---|---|
@@ -132,19 +155,24 @@ Integration with existing hospital systems and secure networks.
 
 ---
 
-## Next Steps
+# Next Steps
 
 ```
-1. Review documents in /docs
-2. Sign NDA → docs/NDA_TEMPLATE.md → return to info@uch.teosegypt.com
-3. Schedule 30-min briefing call
-4. Receive scoped Institutional Proposal
-5. Sign pilot agreement → deployment in 14 days
+
+1. Review documentation in /docs
+2. Sign NDA (docs/NDA_TEMPLATE.md)
+3. Schedule institutional briefing call
+4. Receive scoped institutional proposal
+5. Launch pilot deployment
+
 ```
 
 ---
 
 <div align="center">
-<em>Confidential — Elmahrosa International · Egypt · EST. 2007</em><br>
-<em>Unauthorized distribution is strictly prohibited.</em>
+
+Confidential — Elmahrosa International · Egypt  
+Unauthorized distribution is prohibited.
+
 </div>
+```
